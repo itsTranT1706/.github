@@ -1,4 +1,7 @@
 # .github  
+<div align ="center">
+     <img src="https://www.gapo.vn/1754079332/posts/rq9yqwt0c09w" width="450"/>
+</div> 
 <div id="header" align="center">
   <img src="https://media.giphy.com/media/cpAGF6uxLw93uuQNNJ/giphy.gif" width="500"/>
 </div>
