@@ -3,9 +3,9 @@
   <img src="https://media.giphy.com/media/cpAGF6uxLw93uuQNNJ/giphy.gif" width="500"/>
 </div>
 
-<div width ="500" color ="yellow" align="center">
+<div align="center">
 <g-emoji class="g-emoji" alias="alien" fallback-src="https://github.githubassets.com/images/icons/emoji/unicode/1f47d.png">👽</g-emoji>
-Where can you find me?
+  <p width = "300" style="color:yellow">Where can you find me?</p>
 <g-emoji class="g-emoji" alias="alien" fallback-src="https://github.githubassets.com/images/icons/emoji/unicode/1f47d.png">👽</g-emoji>
 </div>
 
