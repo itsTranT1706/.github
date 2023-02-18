@@ -4,9 +4,7 @@
 </div>
 
 <div align="center">
-<g-emoji class="g-emoji" alias="alien" fallback-src="https://github.githubassets.com/images/icons/emoji/unicode/1f47d.png">👽</g-emoji>
-  <p width = "300" style="color:yellow">Where can you find me?</p>
-<g-emoji class="g-emoji" alias="alien" fallback-src="https://github.githubassets.com/images/icons/emoji/unicode/1f47d.png">👽</g-emoji>
+<g-emoji class="g-emoji" alias="alien" fallback-src="https://github.githubassets.com/images/icons/emoji/unicode/1f47d.png">👽</g-emoji>Where can you find me?<g-emoji class="g-emoji" alias="alien" fallback-src="https://github.githubassets.com/images/icons/emoji/unicode/1f47d.png">👽</g-emoji>
 </div>
 
 <div id="badges" align="center">
