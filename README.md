@@ -2,9 +2,12 @@
 <div id="header" align="center">
   <img src="https://media.giphy.com/media/cpAGF6uxLw93uuQNNJ/giphy.gif" width="500"/>
 </div>
+
+<div width ="300" color ="yellow">
 <g-emoji class="g-emoji" alias="alien" fallback-src="https://github.githubassets.com/images/icons/emoji/unicode/1f47d.png">👽</g-emoji>
-<h1 width="300" align="center" >Where can you find me?</h1>
+Where can you find me?
 <g-emoji class="g-emoji" alias="alien" fallback-src="https://github.githubassets.com/images/icons/emoji/unicode/1f47d.png">👽</g-emoji>
+</div>
 
 <div id="badges" align="center">
   <a href="https://www.linkedin.com/in/tientranviet-0507xx/">
