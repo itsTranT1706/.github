@@ -1,16 +1,7 @@
 # .github  
 <div >
      <img src="https://social-image-1.gapo.vn/images/6c745e7d-1eee-4dca-a03f-519402b5887d.gif" width="450"/>
-     
-     
-     
-     
-     
-     
-     
-     
-     
-     
+     <img src="https://media.giphy.com/media/SS8CV2rQdlYNLtBCiF/giphy.gif" align="right"/>     
 </div> 
 <div id="header" align="center">
   <img src="https://media.giphy.com/media/cpAGF6uxLw93uuQNNJ/giphy.gif" width="500"/>
