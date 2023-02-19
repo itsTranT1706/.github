@@ -9,7 +9,9 @@
 <div id="header" align="center">
   <img src="https://media.giphy.com/media/cpAGF6uxLw93uuQNNJ/giphy.gif" width="500"/>
 </div>
-
+<br></br>
+<br></br>
+-------------------------------------------------------------------------------------------------------------------------------------------------------
 <div align="center">
 <h2 width="300">
 <g-emoji class="g-emoji" alias="alien" fallback-src="https://github.githubassets.com/images/icons/emoji/unicode/1f47d.png">👽</g-emoji>Where can you find me <g-emoji class="g-emoji" alias="alien" fallback-src="https://github.githubassets.com/images/icons/emoji/unicode/1f47d.png">👽</g-emoji>
@@ -32,9 +34,7 @@
   
 </div >
 <br></br>
-<br></br>
-<br></br>
----
+-------------------------------------------------------------------------------------------------------------------------------------------------------
 
 
 ### :hammer_and_wrench: Languages and Tools :
@@ -55,4 +55,11 @@
   <img src="https://github.com/devicons/devicon/blob/master/icons/amazonwebservices/amazonwebservices-plain-wordmark.svg" title="AWS" alt="AWS" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/git/git-original-wordmark.svg" title="Git" **alt="Git" width="40" height="40"/>
 </div>
+
+<br></br>
+--------------------------------------------------------------------------------------------------------------------------------------------------------
+
+### :fire: My Stats :
+
+[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=itsTranT1706&theme=radical)](https://git.io/streak-stats)
 
