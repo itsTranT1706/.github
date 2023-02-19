@@ -30,10 +30,10 @@
     <img src="https://camo.githubusercontent.com/4f9806e71f499e9cc0c0a13b5ef49eae2c2fb9fb40f335194ff3cf36cf2847b2/68747470733a2f2f696d672e69636f6e73382e636f6d2f627562626c65732f3130302f3030303030302f696e7374616772616d2e706e67" alt="Instagram Badge"/>
   </a>
   
-</div>
-
+</div >
+<div align="center" width ="350"  >
 ### :hammer_and_wrench: Languages and Tools :
-
+</div>
 <div align="center" >
   <img src="https://github.com/devicons/devicon/blob/master/icons/java/java-original-wordmark.svg" title="Java" alt="Java" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/react/react-original-wordmark.svg" title="React" alt="React" width="40" height="40"/>&nbsp;
