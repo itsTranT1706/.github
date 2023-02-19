@@ -11,7 +11,6 @@
 </div>
 <br></br>
 <br></br>
--------------------------------------------------------------------------------------------------------------------------------------------------------
 <div align="center">
 <h2 width="300">
 <g-emoji class="g-emoji" alias="alien" fallback-src="https://github.githubassets.com/images/icons/emoji/unicode/1f47d.png">👽</g-emoji>Where can you find me <g-emoji class="g-emoji" alias="alien" fallback-src="https://github.githubassets.com/images/icons/emoji/unicode/1f47d.png">👽</g-emoji>
@@ -34,8 +33,8 @@
   
 </div >
 <br></br>
--------------------------------------------------------------------------------------------------------------------------------------------------------
-
+<br></br>
+---
 
 ### :hammer_and_wrench: Languages and Tools :
 
@@ -57,7 +56,7 @@
 </div>
 
 <br></br>
---------------------------------------------------------------------------------------------------------------------------------------------------------
+---
 
 ### :fire: My Stats :
 
