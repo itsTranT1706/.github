@@ -60,8 +60,7 @@
 
 ### :fire: My Stats :
 
-[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=itsTranT1706&theme=radical)](https://git.io/streak-stats)
-
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=anuraghazra&show_icons=true&theme=radical)
 <br></br>
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=itsTranT1706&layout=compact&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats)
 ---
