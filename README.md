@@ -4,7 +4,7 @@
      <lì class="cover object">
      <img src="https://media.giphy.com/media/SS8CV2rQdlYNLtBCiF/giphy.gif" width="100" align="right"/>  
      <img  src="https://media.giphy.com/media/kH6CqYiquZawmU1HI6/giphy.gif" width="100" align="right" height = "97.7"/>  
-     <img src="https://media.giphy.com/media/du3J3cXyzhj75IOgvA/giphy.gif" width="100" align="right"/>  
+     <img src="https://media.giphy.com/media/du3J3cXyzhj75IOgvA/giphy.gif" width="100" align="right" height = "97.7/>  
      </li>
 </div> 
 <div id="header" align="center">
