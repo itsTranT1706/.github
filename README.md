@@ -62,7 +62,6 @@
 ### :fire: My Stats :
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=itsTranT1706&show_icons=true&theme=radical)
-<br></br>
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=itsTranT1706&layout=compact&theme=vision-friendly-dark)](https://github.com/itsTranT1706/github-readme-stats)
                                                                                                                                                
 ---
